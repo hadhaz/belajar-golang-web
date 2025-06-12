@@ -2,6 +2,7 @@ build:
 	go build -o bin/server cmd/server.go
 
 run:
+	docker compose up -d
 	bin/server
 
 migrate:
