@@ -2,4 +2,4 @@
 https://docs.techdox.nz/node-exporter/
 
 ### My Grafana
-![alt text](image-1.png)
+![alt text](./assets/image-1.png)
