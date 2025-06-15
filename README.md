@@ -1,15 +1,5 @@
-# Migrations
-references: https://github.com/golang-migrate/migrate/blob/master/GETTING_STARTED.md
+### Tutorial Setup Node Exporter
+https://docs.techdox.nz/node-exporter/
 
-## 1. Create new migration file
-
-```bash
-migrate create -ext sql -dir db/migrations YOUR_NEW_MIGRATION_VERB
-```
-
-## 2. Run migration
-
-```bash
-migrate -database YOUR_DATABASE_URL -path db/migrations up
-```
-
+### My Grafana
+![alt text](image-1.png)
